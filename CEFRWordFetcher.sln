@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEFRWordFetcher.Core", "CEFRWordFetcher.Core\CEFRWordFetcher.Core.csproj", "{34A0ED8A-FE48-418A-8C9C-E4BFD04E2959}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEFRWordFetcher.Infrastructure", "CEFRWordFetcher.Infrastructure\CEFRWordFetcher.Infrastructure.csproj", "{71A9299C-21C6-44CA-8F81-49C7082A94B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEFRWordFetcher.Api", "CEFRWordFetcher.Api\CEFRWordFetcher.Api.csproj", "{CBE17079-7C8E-4BEC-ACF8-34EFA0D3129B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEFRWordFetcher.ConsoleApp", "CEFRWordFetcher.ConsoleApp\CEFRWordFetcher.ConsoleApp.csproj", "{F6EB32AC-B1E8-48C2-B2CA-D14E034A3B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34A0ED8A-FE48-418A-8C9C-E4BFD04E2959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34A0ED8A-FE48-418A-8C9C-E4BFD04E2959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34A0ED8A-FE48-418A-8C9C-E4BFD04E2959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34A0ED8A-FE48-418A-8C9C-E4BFD04E2959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71A9299C-21C6-44CA-8F81-49C7082A94B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71A9299C-21C6-44CA-8F81-49C7082A94B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71A9299C-21C6-44CA-8F81-49C7082A94B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71A9299C-21C6-44CA-8F81-49C7082A94B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE17079-7C8E-4BEC-ACF8-34EFA0D3129B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE17079-7C8E-4BEC-ACF8-34EFA0D3129B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE17079-7C8E-4BEC-ACF8-34EFA0D3129B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE17079-7C8E-4BEC-ACF8-34EFA0D3129B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EB32AC-B1E8-48C2-B2CA-D14E034A3B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EB32AC-B1E8-48C2-B2CA-D14E034A3B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EB32AC-B1E8-48C2-B2CA-D14E034A3B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EB32AC-B1E8-48C2-B2CA-D14E034A3B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
